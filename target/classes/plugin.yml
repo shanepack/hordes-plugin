@@ -1,0 +1,11 @@
+name: ZombieHordes
+version: 1.2
+author: YourName
+main: net.fwoup.zombiehordes.ZombieHordes
+description: Spawns hordes of zombies near players at night
+api-version: 1.19
+commands:
+  zh:
+    description: ZombieHordes command
+    usage: /zh strike <player>
+    permission: zh.strike
