@@ -1,4 +1,4 @@
-# hordes-plugin
+# Hordes - Plugin for Spigot 1.19+
 Minecraft Spigot plugin that spawns hordes of zombies on a random interval at night via a strike of lightning. Open for any suggestions/changes/help! :)
 
 .java file is in src/main
